@@ -1,2 +1,4 @@
 # spotify_api
-Iron Hack Mid Term Project using Spotify API
+Iron Hack Second Mid Term Project 
+
+Song predictor/recommender using the Spotify API
